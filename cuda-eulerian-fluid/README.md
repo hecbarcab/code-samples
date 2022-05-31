@@ -17,8 +17,8 @@ Implementation of a grid-based Eulerian simulator solving the incompressible Eul
 See the *Related Work* chapter of my [Doctoral Thesis](https://hecbarcab.github.io/uploads/thesis-hector-barreiro-cabrera.pdf) for a theoretical overview of the principles behind the simulator.
 
 ## Related publications
-* [https://www.cs.cmu.edu/~kmcrane/Projects/GPUFluid/](Real Time Simulation and Rendering of 3D Fluids. Crane, Keenan and Llamas, Ignacio, and Tariq, Sarah.)
-* [https://web.stanford.edu/class/cs237d/smoke.pdf](Visual Simulation of Smoke. Fedkiw, Ronald and Stam, Jos and Wann Jensen, Henrik)
+* [Real Time Simulation and Rendering of 3D Fluids. Crane, Keenan and Llamas, Ignacio, and Tariq, Sarah.](https://www.cs.cmu.edu/~kmcrane/Projects/GPUFluid/)
+* [Visual Simulation of Smoke. Fedkiw, Ronald and Stam, Jos and Wann Jensen, Henrik.](https://web.stanford.edu/class/cs237d/smoke.pdf)
 
 ## License
 
