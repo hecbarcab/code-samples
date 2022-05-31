@@ -1,4 +1,4 @@
-⬅️ [Press here to go back to the other code samples]([https://github.com/hecbarcab/code-samples)
+⬅️ [Press here to go back to the other code samples](https://github.com/hecbarcab/code-samples)
 
 ---
 
